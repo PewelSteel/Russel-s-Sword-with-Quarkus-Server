@@ -1,0 +1,5 @@
+org\example\auth\PasswordUtil.class
+org\example\auth\UserDAO.class
+org\example\ExampleResource.class
+org\example\MyEntity.class
+org\example\auth\RegisterRequest.class
